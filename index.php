@@ -1,3 +1,3 @@
 <?php
-    include_once("maukahkamu.html")
+    include_once("index.html")
 ?>
